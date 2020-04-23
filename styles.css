@@ -21,6 +21,12 @@ h1 {
   font-size: 8rem;
   color: #4ECCA3;
 }
+h2 {
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
 
 p {
   font-size: 2rem;
@@ -37,5 +43,6 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  font-size: 3rem;
 
 }
